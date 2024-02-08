@@ -30,7 +30,7 @@ This Portfolio is built using modern technologies and libraries to ensure a smoo
 
 To set up this Portfolio, follow these steps:
 
-1. Clone the repository: ``
+1. Clone the repository: `https://github.com/Juniorkpabitey/Dali-Developer-Challenge.git`
 2. Install dependencies: `cd Dali-Developer-Challenge` and `npm install`
 3. Start the Portfolio live with: `npm start`
 
