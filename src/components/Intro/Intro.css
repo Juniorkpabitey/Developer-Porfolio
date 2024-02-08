@@ -1,0 +1,89 @@
+.intro{
+    display: flex;
+    height: 77vh;
+    margin-top: 6rem;
+
+}
+
+.i-left{
+    display: flex;
+    position: relative;
+    flex: 1;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.i-name{
+    display:flex ;
+    flex-direction: column;
+}
+.i-name>:nth-child(1){
+    color: var(--black);
+    font-weight: bold;
+    font-size: 3rem;
+
+}
+.i-name>:nth-child(2){
+    color: var(--orange);
+    font-weight: bold;
+    font-size: 3rem;
+}
+.i-name>:nth-child(3){
+    font-weight: 100;
+    color: var(--gray);
+    font-size: 14px;
+    margin-top: 10px;
+}
+.i-button{
+    width: 6rem;
+    height: 2rem;
+}
+.i-icons{
+    margin-top:-20px;
+    display: flex;
+    gap: -20rem;
+}
+.i-icons>*{
+    transform: scale(0.5);
+}
+.i-icons>*:hover{
+    cursor: pointer;
+}
+
+.i-right{
+    flex:1;
+    position: relative;
+}
+
+.i-right>*{
+    position: absolute;
+    z-index: 1;
+}
+
+.i-right>:nth-child(1){
+    transform: scale(0.69);
+    left: -15%;
+    top:-9%;
+    
+}
+
+.i-right>:nth-child(2){
+    top: -4.6rem;
+    transform: scale(0.57);
+    left: -3rem;
+}
+.i-right>:nth-child(3){
+    margin-top: 4rem;
+    transform: scale(2.8);
+    left:30% ;
+    }
+
+    .oval-image {
+        width: 150px;  /* Adjust width as needed */
+        height: 150px; /* Adjust height as needed */
+        border-radius: 30%; /* This makes the image circular. For an oval shape, adjust the horizontal and vertical radii separately */
+        overflow: hidden; /* Ensures that the image is clipped to the border-radius */
+        object-fit: cover; /* This ensures the image covers the entire oval shape without stretching */
+        border-radius: 50% 50%; /* Horizontal radius is 50%, vertical radius is 25% */
+        box-shadow: 0 0 10px black; /* Adds a black shadow around the image to give it depth */
+      }
