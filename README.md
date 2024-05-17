@@ -1,4 +1,4 @@
-﻿# Dali-Developer-Challenge
+﻿# Developer-Portfolio
 
 Welcome to my Portfolio
 
