@@ -23,8 +23,12 @@ This Portfolio is built using modern technologies and libraries to ensure a smoo
 
 - [React](https://reactjs.org/): A popular JavaScript library for building user interfaces.
 - [React Router](https://reactrouter.com/): Handles navigation and routing within the application.
-- [React Query](https://react-query.tanstack.com/): Enables efficient data fetching and synchronization for improved performance.
-- [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for building custom and responsive designs.
+- [useState Hook]
+- [useContext Hook]
+- [Framer Motion]
+- [Swiper js]
+- [CSS3]
+
 
 ## Installation
 
