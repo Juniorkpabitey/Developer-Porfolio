@@ -23,11 +23,11 @@ This Portfolio is built using modern technologies and libraries to ensure a smoo
 
 - [React](https://reactjs.org/): A popular JavaScript library for building user interfaces.
 - [React Router](https://reactrouter.com/): Handles navigation and routing within the application.
-- [useState Hook]
-- [useContext Hook]
-- [Framer Motion]
-- [Swiper js]
-- [CSS3]
+- useState Hook
+- useContext Hook
+- Framer Motion
+- Swiper js
+- CSS3
 
 
 ## Installation
